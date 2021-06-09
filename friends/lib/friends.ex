@@ -1,6 +1,6 @@
-defmodule Ecto do
+defmodule Friends do
   @moduledoc """
-  Documentation for `Ecto`.
+  Documentation for `Friends`.
   """
 
   @doc """
@@ -8,7 +8,7 @@ defmodule Ecto do
 
   ## Examples
 
-      iex> Ecto.hello()
+      iex> Friends.hello()
       :world
 
   """
